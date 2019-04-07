@@ -1,0 +1,10 @@
+scriptDir=$(dirname ${BASH_SOURCE[0]})
+source $scriptDir/../desk.master.sh
+# =========================================================================
+#
+# theoretical-minimum
+#
+# Description: Working through the examples and problems of The Theoretical Minimum in Jupyter
+#
+# -------------------------------------------------------------------------
+initDesk /Users/matt/Projects/tm
